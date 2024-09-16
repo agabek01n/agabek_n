@@ -29,7 +29,7 @@ I specialize in creating visual solutions that communicate effectively. With yea
 - Enhancing my skills in motion graphics and data visualization.
 - Collaborating with teams to build better user experiences through design and analytics.
 
-![Working on Projects](https://media.giphy.com/media/3o6Mb43tZJMAA2Z7rS/giphy.gif)
+![Working on Projects](https://media.giphy.com/media/5xtDarzp5at2qwSTdi0/giphy.gif)
 
 ---
 
@@ -38,6 +38,5 @@ I specialize in creating visual solutions that communicate effectively. With yea
 - **Behance**: [behance.net/agabekN](https://www.behance.net)
 - **Dribbble**: [dribbble.com/agabekN](https://www.dribbble.com)
 - **Instagram**: [instagram.com/agabekN](https://www.instagram.com)
-- **Telegram**: [t.me/agabekN](https://www.telegram.com)
-- **Email**: agabeknarbayev01@gmail.com
+- **Telegram**: [t.me/agabekN](https
 
