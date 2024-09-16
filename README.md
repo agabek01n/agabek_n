@@ -7,13 +7,14 @@ I specialize in creating visual solutions that communicate effectively. With yea
 ---
 
 ### 💻 My Toolkit
-- ![Photoshop](https://media.giphy.com/media/UqZxlX8iiQeQRutZZA/giphy.gif) **Adobe Photoshop**: Crafting eye-catching designs & retouching images.
-- ![Illustrator](https://media.giphy.com/media/QUuHhxvIoev2Qxz2z1/giphy.gif) **Adobe Illustrator**: Creating vector-based graphics & logos.
-- ![After Effects](https://media.giphy.com/media/9A1xwf4G47xDS/giphy.gif) **Adobe After Effects**: Adding motion to my designs.
-- ![Premiere Pro](https://media.giphy.com/media/3orieQytWQnRqsgxgE/giphy.gif) **Adobe Premiere Pro**: Editing videos with professional precision.
-- ![Figma](https://media.giphy.com/media/26gIqUuR5WQeGpJsA/giphy.gif) **Figma**: Designing web and mobile interfaces.
-- ![Power BI](https://media.giphy.com/media/7VoNsnlgC4Sre7PKkh/giphy.gif) **Power BI Dashboard**: Turning data into interactive visuals.
-- ![SSMS](https://media.giphy.com/media/1zSz5MVw4zKg0/giphy.gif) **SSMS**: Managing and analyzing databases.
+
+- ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white) **Adobe Photoshop**: Crafting eye-catching designs & retouching images.
+- ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) **Adobe Illustrator**: Creating vector-based graphics & logos.
+- ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) **Adobe After Effects**: Adding motion to my designs.
+- ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) **Adobe Premiere Pro**: Editing videos with professional precision.
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) **Figma**: Designing web and mobile interfaces.
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) **Power BI Dashboard**: Turning data into interactive visuals.
+- ![SSMS](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) **SSMS**: Managing and analyzing databases.
 
 ---
 
