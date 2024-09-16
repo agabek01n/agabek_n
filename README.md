@@ -7,13 +7,13 @@ I specialize in creating visual solutions that communicate effectively. With yea
 ---
 
 ### 💻 My Toolkit
-- **Adobe Photoshop**: Crafting eye-catching designs & retouching images.
-- **Adobe Illustrator**: Creating vector-based graphics & logos.
-- **Adobe After Effects**: Adding motion to my designs.
-- **Adobe Premiere Pro**: Editing videos with professional precision.
-- **Figma**: Designing web and mobile interfaces.
-- **Power BI Dashboard**: Turning data into interactive visuals.
-- **SSMS**: Managing and analyzing databases.
+- ![Photoshop](https://media.giphy.com/media/UqZxlX8iiQeQRutZZA/giphy.gif) **Adobe Photoshop**: Crafting eye-catching designs & retouching images.
+- ![Illustrator](https://media.giphy.com/media/QUuHhxvIoev2Qxz2z1/giphy.gif) **Adobe Illustrator**: Creating vector-based graphics & logos.
+- ![After Effects](https://media.giphy.com/media/9A1xwf4G47xDS/giphy.gif) **Adobe After Effects**: Adding motion to my designs.
+- ![Premiere Pro](https://media.giphy.com/media/3orieQytWQnRqsgxgE/giphy.gif) **Adobe Premiere Pro**: Editing videos with professional precision.
+- ![Figma](https://media.giphy.com/media/26gIqUuR5WQeGpJsA/giphy.gif) **Figma**: Designing web and mobile interfaces.
+- ![Power BI](https://media.giphy.com/media/7VoNsnlgC4Sre7PKkh/giphy.gif) **Power BI Dashboard**: Turning data into interactive visuals.
+- ![SSMS](https://media.giphy.com/media/1zSz5MVw4zKg0/giphy.gif) **SSMS**: Managing and analyzing databases.
 
 ---
 
