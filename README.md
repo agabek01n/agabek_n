@@ -29,8 +29,6 @@ I specialize in creating visual solutions that communicate effectively. With yea
 - Enhancing my skills in motion graphics and data visualization.
 - Collaborating with teams to build better user experiences through design and analytics.
 
-![Formal Work](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
-
 ---
 
 ### 🤝 Let's Connect
